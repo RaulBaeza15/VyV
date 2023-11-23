@@ -1,0 +1,4 @@
+Ruta,this.root,recursive
+"1,2,3,7",null,TRUE
+"1,2,4,5,7",!null,FALSE
+"1,2,4,6,7",!null,TRUE
