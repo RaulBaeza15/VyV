@@ -28,10 +28,10 @@ public class TestInsert {
                 for (int i = 0; i < profundidad-1; i++) {
                     arbol.insert(i,recursive);
                 }
-                System.out.println(arbol.depth());
+
                 arbol.insert(valueToInsert,recursive);
 
-            });
+            },"Inserta a pesar de Rango: " +valueToInsert);
         }
         else if(exception2){
             assertThrows(Exception.class, () -> {
@@ -39,10 +39,10 @@ public class TestInsert {
                 for (int i = 0; i < profundidad-1; i++) {
                     arbol.insert(i,recursive);
                 }
-                System.out.println(arbol.depth());
+
                 arbol.insert(valueToInsert,recursive);
 
-            });
+            }, "Inserta a pesar de profundidad: " +profundidad );
         }
         else{
             assertDoesNotThrow(() -> {
@@ -50,67 +50,11 @@ public class TestInsert {
                 for (int i = 0; i < profundidad-1; i++) {
                     arbol.insert(i,recursive);
                 }
-                System.out.println(arbol.depth());
+
                 arbol.insert(valueToInsert,recursive);
-            });
+            },"No insert con profundidad: "+profundidad+", rango: "+valueToInsert);
         }
 
-
-
-
-
     }
-
-    @org.junit.jupiter.api.Test
-    void casoPruebaInsertException(){
-        Integer valueToInsert = -2501;
-        assertThrows(Exception.class, () -> {
-            throw new Exception("This is an example exception.");
-        });
-    }
-
-    @org.junit.jupiter.api.Test
-    void casoPruebaInsertNotException(){
-        arbol = new BST(1);
-        assertDoesNotThrow(() -> {
-            //throw new Exception("This is an example exception.");
-        });
-    }
-
-    // TEST	1	: Rango 	-2501	, Profundidad	0	, Expected 	Exception
-    @org.junit.jupiter.api.Test
-    void casoPruebaInsertException1(){
-        Integer valueToInsert = -2501;
-        boolean  recursive= true;
-        int profundidad=0;
-        assertThrows(Exception.class, () -> {
-            arbol = new BST();
-            for (int i = 0; i < profundidad-1; i++) {
-                arbol.insert(i,recursive);
-            }
-            System.out.println(arbol.depth());
-            arbol.insert(valueToInsert,recursive);
-
-        });
-    }
-    // TEST	2	: Rango 	-2501	, Profundidad	1	, Expected 	Exception
-    @org.junit.jupiter.api.Test
-    void casoPruebaInsertException2(){
-        Integer valueToInsert = -2501;
-        boolean  recursive= true;
-        int profundidad=1;
-        assertThrows(Exception.class, () -> {
-            arbol = new BST();
-            for (int i = 0; i < profundidad-1; i++) {
-                arbol.insert(i,recursive);
-            }
-
-            arbol.insert(valueToInsert,recursive);
-
-        });
-    }
-
-
-
-
+    
 }
