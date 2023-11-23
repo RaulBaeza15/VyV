@@ -14,6 +14,7 @@ public class TestInsert {
     void tearDown(){
 
     }
+    
     @org.junit.jupiter.api.Test
     void casoPruebaInsertException(){
         Integer valueToInsert = -2501;
