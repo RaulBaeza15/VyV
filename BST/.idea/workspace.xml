@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="093345c3-64b0-4545-801c-bca9c15438e7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BST.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/bst/AbstractBST.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/bst/BST.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/bst/IBinaryTree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/bst/Node.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/bst/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/bst/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/exceptions/BetweenLevelException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/exceptions/DepthException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/exceptions/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/exceptions/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/com/bst/AbstractBST.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/com/bst/BST.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/com/bst/IBinaryTree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/com/bst/Node.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/com/bst/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/com/exceptions/BetweenLevelException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/com/exceptions/DepthException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/com/exceptions/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/serialized-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bst/AbstractBST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bst/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bst/IBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bst/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exceptions/BetweenLevelException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exceptions/DepthException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bst/AbstractBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bst/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bst/IBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bst/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/exceptions/BetweenLevelException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/exceptions/DepthException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raul/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raul/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raul/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raul/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raul/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raul/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raul/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raul/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raul/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raul/src/test/java/TestInsert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raul/src/test/resources/Test Insert - Insert.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2XLBYRFIDRJHi4wi7sJujbmiNWs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/br0353.sala3203-16-02/Desktop/VyV/Caja Blanca/BST",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="093345c3-64b0-4545-801c-bca9c15438e7" name="Changes" comment="" />
+      <created>1698398527546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698398527546</updated>
+      <workItem from="1698398528681" duration="670000" />
+      <workItem from="1698399217300" duration="1106000" />
+      <workItem from="1699348421174" duration="42000" />
+      <workItem from="1700069804651" duration="348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
