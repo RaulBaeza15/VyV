@@ -45,6 +45,20 @@ public class TestSearch {
     @org.junit.jupiter.params.provider.CsvFileSource(resources = "Test Caja negra - search.csv",numLinesToSkip = 1)
     void testCSV(int id, int valueToSearch,int profundidad,boolean EstaONo,int salidaEsperada ){
         //Id,Content,Profundidad,Está/no,SalidaEsperada
+        arbol = new BST();
+        
+        for (int i = 0; i < profundidad-1; i++) {
+            try {
+                // Suponiendo que 'arbol' es una instancia de la clase que tiene el método insert
+                arbol.insert(i, true);
+                // Código adicional después de la inserción, si es necesario
+            } catch (Exception e) {
+                // Manejo de la excepción
+                System.err.println("Ha ocurrido una excepción: " + e.getMessage());
+
+            }
+
+        }
 
 
 
